@@ -2,7 +2,6 @@
   "name": "portfolio_gowtham",
   "version": "1.0.0",
   "description": "Portfolio of Gowtham CK",
-  "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
